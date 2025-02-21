@@ -1,0 +1,8 @@
+WIDTH = 500
+HEIGHT = 500
+
+DEFAULT_COLOR = 'black'
+BG_COLOR = "white"
+BRUSH_SIZE = 5
+ERASE_COLOR = "white"
+
